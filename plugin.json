@@ -17,5 +17,6 @@
     "call-coaching",
     "revenue"
   ],
-  "repository": "https://github.com/GetZell/zell"
+  "repository": "https://github.com/GetZell/zell",
+  "logo": "./assets/logo.png"
 }
