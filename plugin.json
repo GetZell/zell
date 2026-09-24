@@ -16,5 +16,6 @@
     "grok-bot",
     "call-coaching",
     "revenue"
-  ]
+  ],
+  "repository": "https://github.com/GetZell/zell"
 }
