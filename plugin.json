@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "zell",
+  "version": "0.1.0",
+  "description": "Sales coaching from real calls: morning reviews for reps, coaching priorities for managers, and drills tied to what happened on the call. Connect your Zell workspace via OAuth.",
+  "author": {
+    "name": "Zell",
+    "url": "https://www.getzell.com"
+  },
+  "homepage": "https://www.getzell.com",
+  "license": "MIT",
+  "keywords": [
+    "zell",
+    "sales-coaching",
+    "mcp",
+    "grok-bot",
+    "call-coaching",
+    "revenue"
+  ]
+}
